@@ -1,4 +1,9 @@
 
+
+[![Build Status](https://dev.azure.com/Techfacta/Space%20Game%20-%20Web/_apis/build/status/spacegame-web-CI?branchName=master)](https://dev.azure.com/Techfacta/Space%20Game%20-%20Web/_build/latest?definitionId=11&branchName=master)
+
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
